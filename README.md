@@ -1,144 +1,161 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" width="100%"/>
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██████╗ ██╗  ██╗██████╗ ███████╗███████╗ ██╗ ██████╗    ║
-║   ██╔════╝ ██║  ██║██╔══██╗██╔════╝██╔════╝███║██╔════╝    ║
-║   ╚█████╗  ███████║██████╔╝█████╗  █████╗  ╚██║███████╗    ║
-║    ╚═══██╗ ██╔══██║██╔══██╗██╔══╝  ██╔══╝   ██║██╔═══██╗   ║
-║   ██████╔╝ ██║  ██║██║  ██║███████╗███████╗ ██║╚██████╔╝   ║
-║   ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═╝ ╚═════╝   ║
-║                                                              ║
-║            [ SHREE KAMALESH  //  FULL-STACK DEV ]            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+initializing+developer+profile...;%3E+loading+TypeScript+modules...;%3E+spinning+up+Electron+runtime...;%3E+access+granted.+welcome.)](https://git.io/typing-svg)
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:7b2ff7&height=200&section=header&text=Shree%20Kamalesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Prompt%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Interactive%20Worlds&descSize=16&descAlignY=58&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFF5&center=true&vCenter=true&width=700&lines=Building+AI+that+thinks+in+narrative;Prompt+Engineer+%2B+Full-Stack+Builder;LLM+Workflows+%7C+RAG+%7C+Agent+Systems;Making+games+smarter+with+AI" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- CONTACT BADGES -->
+[![Gmail](https://img.shields.io/badge/shreekamalesh167@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreekamalesh167@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Location](https://img.shields.io/badge/Cuddalore%2C%20India-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
 ---
 
-```bash
-$ whoami && cat /etc/dev/profile.conf
-```
+## ⚡ `whoami`
 
-```ini
-[identity]
-name        = Shree Kamalesh
-handle      = SHREE167
-location    = India
-focus       = Full-Stack · Desktop Apps · Web Scraping
-
-[current_mission]
-project     = ComicToPdf
-stack       = Electron + TypeScript + Node.js + React
-status      = ACTIVE
-
-[contact]
-email       = shreekamalesh167@gmail.com
-telegram    = https://t.me/+hBGLgY7ZUZU2NTA9
-github      = https://github.com/SHREE167
+```python
+shree = {
+    "name"       : "Shree Kamalesh",
+    "role"       : ["AI Prompt Engineer", "Full-Stack Builder", "Interactive Systems Nerd"],
+    "education"  : "B.Tech CS & Business Systems @ Panimalar Engineering College (2027)",
+    "obsessions" : ["AI Narrative Systems", "LLM Consistency", "Game AI", "Dialogue Engines"],
+    "building"   : "LoreGuard AI — QA platform for NPC memory & narrative coherence",
+    "currently"  : "Exploring multi-agent orchestration with LangGraph",
+    "fun_fact"   : "I test LLMs the way game devs stress-test save files. 🎮",
+}
 ```
 
 ---
 
-```bash
-$ ls -la ~/tech-stack/
-```
+## 🧠 Prompt Engineering Arsenal
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Tool | What I do with it |
+|------|------------------|
+| 🔗 **LangChain** | Prompt chaining, RAG pipelines, memory systems |
+| 🕸️ **LangGraph** | Stateful multi-agent orchestration |
+| 🔬 **Promptfoo** | Regression testing & prompt evaluation |
+| 📊 **LangSmith** | Tracing, monitoring, A/B experimentation |
+| 🎛️ **ComfyUI** | Node-based generative AI, ControlNet, LoRA |
+| 🗿 **Hunyuan3D** | AI-assisted 3D asset prototyping |
+| 📋 **PromptLayer** | Versioning & multi-model comparison |
+
+</div>
+
+> Working with **GPT-4 · Claude · Gemini · Qwen** + open-source ecosystems.
+> Specialised in: zero-shot / few-shot prompting, iterative refinement, schema validation, multimodal workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Infrastructure & Tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
 ---
 
-```bash
-$ cat ~/projects/pinned.log
-```
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  PROJECT   : ComicToPdf                                 │
-│  REPO      : github.com/SHREE167/ComicToPdf             │
-│  STACK     : TypeScript · Electron · Node.js · Vite     │
-│  DESC      : Desktop app to scrape & read comics        │
-│              offline as PDFs. No browser. No paywall.   │
-│  DEMO      : comic-to-pdf.vercel.app                    │
-│  STATUS    : ████████████████░░  v1.x  [STABLE]         │
-└─────────────────────────────────────────────────────────┘
-```
-
-[![ComicToPdf](https://github-readme-stats.vercel.app/api/pin/?username=SHREE167&repo=ComicToPdf&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&icon_color=00FF41)](https://github.com/SHREE167/ComicToPdf)
-
----
-
-```bash
-$ cat ~/stats/github.out
-```
+## 🚀 Featured Project
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SHREE167&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d0d0d"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREE167&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d0d0d"/>
+### 🛡️ LoreGuard AI
+**Prompt QA & Consistency Testing Platform for Game NPCs**
 
 </div>
 
-<div align="center">
+> *What happens when LLM-powered NPCs forget who they are after 40 turns of dialogue? LoreGuard catches that.*
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHREE167&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+```
+📐 React frontend  ·  🤖 Gemini API  ·  📊 Recharts  ·  🔍 JSON Schema Validation
+```
 
-</div>
+**What it does:**
+
+- 🔁 **Multi-turn prompt evaluation loops** — stress-tests NPC memory across long conversation chains
+- ⚡ **Live API telemetry** — tracks latency, token usage, and inference costs in real-time
+- 🚨 **Schema hallucination detection** — automatically flags LLM outputs that break game-engine data contracts
+- 📈 **Analytics dashboard** — visualises tone drift, model adherence, and memory degradation over context length
 
 ---
 
-```bash
-$ ping shreekamalesh167@gmail.com
-```
-
-```
-PING shreekamalesh167@gmail.com
-64 bytes: response_time=fast  ttl=64  status=ONLINE
-
---- transmission stats ---
-1 packet transmitted, 1 received, 0% packet loss
-```
+## 📜 Credentials
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/MAIL-shreekamalesh167%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d)](mailto:shreekamalesh167@gmail.com)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-join_community-00FF41?style=for-the-badge&logo=telegram&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d)](https://t.me/+hBGLgY7ZUZU2NTA9)
-[![GitHub](https://img.shields.io/badge/GITHUB-SHREE167-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d)](https://github.com/SHREE167)
+| Certification | Issuer |
+|--------------|--------|
+| 🤖 GPT-3 for Developers | Infosys Springboard |
+| 📊 Data Science | NASSCOM |
+| 🗄️ Database Integration | Oracle |
+
+**Competitions**
+
+🏆 Finalist — Inter-College Ideathon &nbsp;|&nbsp; 🥈 8th Place — 36-Hour Hackathon @ Amrita Engineering College
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreekamalesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=7b2ff7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekamalesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekamalesh&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff5&fire=7b2ff7&currStreakLabel=00fff5" />
+</div>
+
+---
+
+## 🌍 Languages
+
 <div align="center">
 
-```
-> session terminated.
-> EOF
-```
+`Tamil — Native` &nbsp;·&nbsp; `English — Fluent` &nbsp;·&nbsp; `Hindi — Proficient` &nbsp;·&nbsp; `Telugu — Intermediate`
 
-*`// if my work helped you, drop a ⭐ — it costs nothing, means everything`*
+</div>
+
+---
+
+<div align="center">
+
+*"I don't just prompt AI — I interrogate it until it tells the truth."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00fff5,100:0d1117&height=120&section=footer" />
 
 </div>
