@@ -132,12 +132,19 @@ shree = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreekamalesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=7b2ff7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekamalesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=c9d1d9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHREE167&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=00FFF5&text_color=C9D1D9&border_radius=15"/>
+
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREE167&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FF7&text_color=C9D1D9&border_radius=15"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekamalesh&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff5&fire=7b2ff7&currStreakLabel=00fff5" />
+
+<img width="86%" src="https://streak-stats.demolab.com?user=SHREE167&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFF5&fire=7B2FF7&currStreakLabel=00FFF5&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=7D8590&border_radius=15"/>
+
 </div>
 
 ---
